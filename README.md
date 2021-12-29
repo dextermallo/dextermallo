@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dexter-chang" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.github.com/dextermallo" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-100000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dexter-chang.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-100000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:dextermallo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dextermallo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.github.com/dextermallo" target="blank"><img align="center" src="https://img.shields.io/badge/dextermallo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -19,7 +19,7 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 
 ## GitHub Stats
 
-[![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)](https://github.com/dextermallo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)](https://github.com/dextermallo/github-readme-stats)
+[![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)]
 
 ## Tech Stack
 
