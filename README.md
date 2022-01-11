@@ -19,7 +19,7 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 
 ## GitHub Stats
 
-[![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)]
+![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)
 
 ## Tech Stack
 
@@ -48,4 +48,4 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 <br>
 <br>
 
-__Last Edited: 12/28/2021__
+__Last Edited: 1/11/2022__
