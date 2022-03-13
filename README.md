@@ -13,13 +13,15 @@
 ## About Me
 
 I am currently a backend engineer who works remotely in Taiwan. Few things about me:
+- Incoming MSc Cyber Security Engineering @ University of Warwick.（2022!)
 - Main tech stack: backend development (node.js), cloud service (Microsoft Azure), and DevOps.
 - CTF beginner.
 - Loves tech, finance, digital painting, and snorkeling. Also loves coffee and chats. ☕️
 
 ## GitHub Stats
 
-![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)
+![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)
 
 ## Tech Stack
 
@@ -44,8 +46,9 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 <a href="https://www.credly.com/badges/21e2432b-80c6-401d-a129-96edf4257f7c"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Data Fundamentals"/></a>&nbsp;
 <a href="https://www.credly.com/badges/ac723bca-8501-4640-8e81-84cc190397a0"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure AI Fundamentals"/></a>&nbsp;
 <a href="https://www.credly.com/badges/9bd06fc2-bd61-4b0a-ba41-a7f170fad9e8"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Administrator Associate"/></a>&nbsp;
+<a href="https://www.credly.com/badges/8e77ef37-1f2b-478a-a357-c448f04a4ad8"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Developer Associate"/></a>&nbsp;
 </div>
 <br>
 <br>
 
-__Last Edited: 1/11/2022__
+__Last Edited: 3/13/2022__
