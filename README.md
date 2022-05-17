@@ -1,3 +1,5 @@
+ <img src="https://img.shields.io/github/last-commit/dextermallo/dextermallo" alt="last edit time"> <img src="https://visitor-badge.glitch.me/badge?page_id=dextermallo" alt="visitor badge" />
+
 <h2 align="center"> Hi, Dexter here. <img src="https://i.imgur.com/QjIdugi.gif" width="60px"/></h2>
 
 <div align="center">
@@ -20,8 +22,13 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 
 ## GitHub Stats
 
-![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dextermallo&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko)
+<a href="https://github.com/dextermallo" target="_blank">
+  <img alt="Dexter's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dextermallo&show_icons=true&count_private=true&theme=merko&hide_border=true" height="192px" />
+</a>
+
+<a href="https://github.com/dextermallo" target="_blank">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko&hide_border=true" height="192px" />
+</a>
 
 ## Tech Stack
 
@@ -48,7 +55,3 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 <a href="https://www.credly.com/badges/9bd06fc2-bd61-4b0a-ba41-a7f170fad9e8"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Administrator Associate"/></a>&nbsp;
 <a href="https://www.credly.com/badges/8e77ef37-1f2b-478a-a357-c448f04a4ad8"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Developer Associate"/></a>&nbsp;
 </div>
-<br>
-<br>
-
-__Last Edited: 3/13/2022__
