@@ -1,6 +1,6 @@
  <img src="https://img.shields.io/github/last-commit/dextermallo/dextermallo" alt="last edit time"> <img src="https://visitor-badge.glitch.me/badge?page_id=dextermallo" alt="visitor badge" />
 
-<h2 align="center"> Hi, Dexter here. <img src="https://i.imgur.com/QjIdugi.gif" width="60px"/></h2>
+<h2 align="center"> Hi, Dexter here. 👋 </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dexter-chang" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 ## About Me
 
 I am currently a backend engineer who works remotely in Taiwan. Few things about me:
-- Incoming MSc Cyber Security Engineering @ University of Warwick.（2022!)
+- Incoming MSc Cyber Security Engineering @ University of Warwick (2022 Sep).
 - Main tech stack: backend development (node.js), cloud service (Microsoft Azure), and DevOps.
 - CTF beginner.
 - Loves tech, finance, digital painting, and snorkeling. Also loves coffee and chats. ☕️
@@ -23,11 +23,11 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 ## GitHub Stats
 
 <a href="https://github.com/dextermallo" target="_blank">
-  <img alt="Dexter's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dextermallo&show_icons=true&count_private=true&theme=merko&hide_border=true" height="192px" />
+  <img alt="Dexter's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dextermallo&show_icons=true&count_private=true&theme=merko&hide_border=true" height="160px" />
 </a>
 
 <a href="https://github.com/dextermallo" target="_blank">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko&hide_border=true" height="192px" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextermallo&layout=compact&theme=merko&hide_border=true" height="160px" />
 </a>
 
 ## Tech Stack
