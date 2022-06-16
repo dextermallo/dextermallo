@@ -51,7 +51,11 @@ I am currently a backend engineer who works remotely in Taiwan. Few things about
 <div align="center">
 <a href="https://www.credly.com/badges/46e24cea-dfc3-4dc7-b35b-d85624ed3ed7"><img src="https://docs.microsoft.com/zh-tw/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="180px" height="180px" alt="Microsoft Certified: Azure Fundamentals"/></a>&nbsp;
 <a href="https://www.credly.com/badges/21e2432b-80c6-401d-a129-96edf4257f7c"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Data Fundamentals"/></a>&nbsp;
-<a href="https://www.credly.com/badges/ac723bca-8501-4640-8e81-84cc190397a0"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure AI Fundamentals"/></a>&nbsp;
+<a href="https://www.credly.com/badges/ac723bca-8501-4640-8e81-84cc190397a0"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure AI Fundamentals"/></a>
+</div>
+&nbsp;
+<div align="center">
+<a href="https://www.credly.com/badges/a781bc26-9734-4dc5-9b1c-52ca184a1043"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Developer Associate"/></a>
 <a href="https://www.credly.com/badges/9bd06fc2-bd61-4b0a-ba41-a7f170fad9e8"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Administrator Associate"/></a>&nbsp;
 <a href="https://www.credly.com/badges/8e77ef37-1f2b-478a-a357-c448f04a4ad8"><img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="180px" height="180px" alt="Microsoft Certified: Azure Developer Associate"/></a>&nbsp;
 </div>
