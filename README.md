@@ -14,11 +14,16 @@
 
 ## About Me
 
-I am currently a backend engineer who works remotely in Taiwan. Few things about me:
-- Incoming MSc Cyber Security Engineering @ University of Warwick (2022 Sep).
-- Main tech stack: backend development (node.js), cloud service (Microsoft Azure), and DevOps.
-- CTF beginner.
-- Loves tech, finance, digital painting, and snorkeling. Also loves coffee and chats. ☕️
+Hi, Dexter here.👋 
+
+I am currently studying at the University of Warwick, UK, Major in Cyber Security Engineering.
+
+Used to severed as a backend engineer for 2+ years, and now looking for SWE/Security-related roles (intern / graduated) in the UK.
+
+Few things about me:
+ - Main tech stack: backend development (node.js), cloud service (Microsoft Azure), and DevOps.
+ - CTF beginner.
+ - Loves tech, finance, digital painting, and snorkeling. Also loves coffee and chats. ☕️
 
 ## GitHub Stats
 
