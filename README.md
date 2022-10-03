@@ -1,4 +1,4 @@
- <img src="https://img.shields.io/github/last-commit/dextermallo/dextermallo" alt="last edit time"> <img src="https://visitor-badge.glitch.me/badge?page_id=dextermallo" alt="visitor badge" />
+ <img src="https://img.shields.io/github/last-commit/dextermallo/dextermallo" alt="last edit time"> ![](https://komarev.com/ghpvc/?username=dextermallo&label=views)
 
 <h2 align="center"> Hi, Dexter here. 👋 </h2>
 
