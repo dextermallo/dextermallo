@@ -16,13 +16,12 @@
 
 Hi, Dexter here.👋 
 
-I am currently studying at the University of Warwick, UK, Major in Cyber Security Engineering.
-
-Used to severed as a backend engineer for 2+ years, and now looking for SWE/Security-related roles (intern / graduated) in the UK.
+I am currently studying at the University of Warwick, Major in Cyber Security Engineering. Open to any interesting opportunities. 🙂
 
 Few things about me:
- - Main tech stack: backend development (node.js), cloud service (Microsoft Azure), and DevOps.
+ - Main tech stack: Backend development (node.js), cloud service (Microsoft Azure), and DevOps.
  - CTF beginner.
+ - Currently based in UK. 🇬🇧
  - Loves tech, finance, digital painting, and snorkeling. Also loves coffee and chats. ☕️
 
 ## GitHub Stats
