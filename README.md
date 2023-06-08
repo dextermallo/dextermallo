@@ -36,20 +36,24 @@ Few things about me:
 
 ## Tech Stack
 
-- Cloud Provider
+- Cloud
   - ![Microsoft Azure](https://img.shields.io/badge/Micorsoft_Azure-05122A?style=flat&logo=microsoftazure)
   - ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-05122A?style=flat&logo=amazonaws)
 - Backend Development
   - ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
   - ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Python3](https://img.shields.io/badge/-Python_3-05122A?style=flat&logo=python)
-- Frontend Development:
-  - ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
-  - ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 - Operation: 
   - ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=azuredevops)
   - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
   - ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
+- Security
+  - Virtualisation System Security
+  - Security Architectures and Network Defence
+  - Crypto-systems and Data Protection
+  - Risk Management and Risk Analysis
+  - Digital Forensics
+  - Firewall 
 
 ## Certificates
 <div align="center">
