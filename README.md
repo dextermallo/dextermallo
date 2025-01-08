@@ -9,8 +9,7 @@ Currently preparing for CISSP (Mar. 2025) to further enhance security expertise.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dexter-chang" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dexter-chang.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Dexter Chang-100000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:dextermallo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/dextermallo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dextermallo@pm.me" target="blank"><img align="center" src="https://img.shields.io/badge/dextermallo@pm.me-D14836?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://www.github.com/dextermallo" target="blank"><img align="center" src="https://img.shields.io/badge/dextermallo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="http://keyserver.ubuntu.com/pks/lookup?search=dextermallo%40gmail.com&fingerprint=on&op=index" target="blank"><img align="center" src="https://img.shields.io/badge/GPG-aabb3c?style=for-the-badge&logo=letsencrypt&logoColor=white" /></a>
 </div>
